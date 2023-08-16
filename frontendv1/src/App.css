@@ -1,0 +1,58 @@
+
+.bi-linkedin{
+    color: #0a66c2;
+}
+.bi-youtube{
+    color: red;
+}
+
+.navbar-collapse{
+    flex-grow: 0 !important;
+}
+.sf, h1 p{
+    font-size: 80px !important;
+    color: black !important;
+}
+.sf,p{
+    color: black !important;
+    font-size: large;
+    font-weight: bolder;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .div123 {
+      display: block;
+    }
+    .col-md-4, .div1, .div2{
+        width: 100% !important;  
+    }
+    .carousel-item > img {
+    height: 300px;
+    }
+    .abc123{
+        display: inline-block !important;
+        width: 800px;
+    }
+    .row>*{
+        margin: auto !important;
+    }
+    .p-3{
+        padding: 3rem !important;
+        margin-top: 30px;
+    }
+    .sbn123{
+        width: inherit;
+    }
+    .cbc123{
+        margin-top: 30px !important;
+    }
+
+  }
+  .a1{
+    border:black 20px;
+  }
+  p{
+    justify-content: center;
+  }
+ 
